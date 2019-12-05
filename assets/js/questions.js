@@ -6,9 +6,9 @@ var questions = [
     answer: "<script>"
   },
   {
-    title: "The condition in an if / else statement is enclosed within ____.",
-    choices: ["quotes", "curly brackets", "parentheses", "square brackets"],
-    answer: "parentheses"
+    title: "Which of the following is the correct syntax to display “HELLO WORLD” in an alert box using JavaScript?",
+    choices: ["alertbox(“HELLO WORLD”)", "msg(“HELLO WORLD”)", "alert(“HELLO WORLD”)", "msgbox(“HELLO WORLD”)"],
+    answer: "alert(“HELLO WORLD”)"
   },
   {
     title: "Arrays in JavaScript can be used to store ____.",
